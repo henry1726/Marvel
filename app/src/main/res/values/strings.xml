@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="characterName">CharacterName</string>
+    <string name="characterImage">CharacterImage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="characterComic">characterComic</string>
+    <string name="no_description">Sin descripción</string>
+    <string name="comics">Comics:</string>
+    <string name="name">Nombre del superhéroe</string>
+    <string name="description">Descripción del superHéroe</string>
+    <string name="error_paging">Sucedió un error desconocido</string>
+    <string name="retry_paging">Presiona para reintentar</string>
+</resources>
